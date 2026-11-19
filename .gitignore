@@ -1,0 +1,24 @@
+# Gradle / Android
+.gradle/
+build/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Game assets belong to the original author and are NOT distributed here.
+# Generate them locally with:  python3 tools/extract_assets.py Orange_Roulette.swf
+app/src/main/assets/*
+!app/src/main/assets/.gitkeep
+app/src/main/res/drawable-nodpi/*
+!app/src/main/res/drawable-nodpi/.gitkeep
+
+# Original game files
+*.swf
+orange_roulette_assets*.zip

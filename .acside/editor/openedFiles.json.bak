@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/OrangeRoulette/app/src/main/java/com/canavarport/orangeroulette/Port.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 58343,
+          "line": 1483
+        },
+        "start": {
+          "column": 0,
+          "index": 58343,
+          "line": 1483
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/OrangeRoulette/app/src/main/java/com/canavarport/orangeroulette/Port.kt"
+}
